@@ -8,7 +8,7 @@ const main = {
     {
       name: 'Home',
       iconName: 'logo-chrome',
-      link: 'https://pirixtech.github.io/muse/'
+      link: 'https://pxmyh.github.io/mike/'
     },
     {
       name: 'Github',
