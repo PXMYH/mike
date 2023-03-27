@@ -1,8 +1,8 @@
 const main = {
   name: 'Michael Hu',
   mail: 'michael.yue.hu@gmail.com',
-  img: 'https://i.ibb.co/DgxjvZn/profile.jpg',
-  role: ['Full Stack Engineer/Cloud Developer'],
+  img: 'https://i.ibb.co/0CB7MXN/profile-comic.png',
+  role: ['Software Development Engineer'],
   // Refer https://ionicons.com/ and put the icon name inside iconName key
   connects: [
     {
